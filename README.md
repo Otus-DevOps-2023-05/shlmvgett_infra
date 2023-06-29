@@ -28,3 +28,10 @@ ProxyJump bastion
 bastion_IP = 158.160.109.124
 someinternalhost_IP = 10.128.0.7
 ```
+
+#L6:
+
+```
+testapp_IP = 158.160.96.142
+testapp_port = 9292
+```
