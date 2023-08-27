@@ -35,3 +35,9 @@ someinternalhost_IP = 10.128.0.7
 testapp_IP = 158.160.96.142
 testapp_port = 9292
 ```
+
+#L10 Ansible 1:
+
+> ansible app -m command -a 'rm -rf ~/reddit'
+
+Удаляет /reddit, при повторном запуске ansible пересоздается
